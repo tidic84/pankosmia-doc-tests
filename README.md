@@ -1,2 +1,4 @@
-# doc
-Documentation for the Pankosmia Ecosystem
+# Pankosmia
+## The Best of All Worlds
+
+[Another Page](./about.html)
