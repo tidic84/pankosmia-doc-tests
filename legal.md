@@ -1,1 +1,1 @@
-Here is another page
+Copy legal things from Xenizo's website here.
