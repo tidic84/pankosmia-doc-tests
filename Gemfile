@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-ruby "3.4.4"
+ruby "3.3.4"
 # gem "jekyll", "~> 4.4.1"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "logger"
