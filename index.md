@@ -12,4 +12,4 @@ An ecosystem to build custom-made translation softwares. Make your own tool for 
 TBD.
 
 ---
-[Legal Notices](./docs/legal/)
+[Legal Notices](./legal/)
