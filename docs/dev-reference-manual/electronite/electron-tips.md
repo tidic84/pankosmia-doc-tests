@@ -5,9 +5,15 @@ permalink: /electron-tips/
 parent: Electronite
 ---
 # Electron tips
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Windows
-{:toc}
 
 ### Goal
 
