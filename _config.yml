@@ -32,7 +32,7 @@ github_username: Pankosmia
 aux_links:
   "Pankosmia on GitHub": "https://github.com/pankosmia"
 aux_links_new_tab: true
-favicon_ico: "/assets/images/pithekos_16.png"
+favicon_ico: "/assets/images/pithekos_16_rounded.png"
 
 # Build settings
 # theme: minima
