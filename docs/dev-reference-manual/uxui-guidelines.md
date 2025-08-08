@@ -6,8 +6,10 @@ parent: Dev Reference Manual
 ---
 # UX/UI guidelines
 
-## General page template
+- TOC
 {:toc}
+
+## General page template
 Testing
 
 ## Data grid
