@@ -28,7 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: Pankosmia
-aux_links: "Pankosmia on GitHub": "https://github.com/pankosmia"
+aux_links:
+  "Pankosmia on GitHub": "https://github.com/pankosmia"
 aux_links_new_tab: true
 favicon_ico: "/assets/images/pithekos_16.png"
 
