@@ -6,7 +6,8 @@ nav_order: 1
 title: Home
 ---
 # Pankosmia
-An ecosystem to build custom-made translation softwares. Make your own tool for creating Scripture and related resources.
+An ecosystem to build custom-made translation softwares.
+Make your own tool for creating Scripture and related resources.
 
 ## Table of content
 TBD.
