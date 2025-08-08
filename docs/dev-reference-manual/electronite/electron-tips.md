@@ -16,10 +16,12 @@ parent: Electronite
 ## Windows
 
 ### Goal
+{: .no_toc }
 
 It is a little guide that explains how I did to develop quickly on the Electron app while using a local dev server, then produce a Windows installer locally or via CI.
 
 ### Prerequisites
+{: .no_toc }
 
 * Complete the project README “Setup” for Pithekos first (dependencies, cloning, initial scripts).
 * Windows 10/11
@@ -28,6 +30,7 @@ It is a little guide that explains how I did to develop quickly on the Electron 
 * PowerShell allowed to run scripts
 
 ### Quick dev flow with the standalone install
+{: .no_toc }
 
 1. Install the standalone Pithekos app standalone and locate its installation folder.
 2. You can Edit the Electron bootstrap file which is what i did:
@@ -35,11 +38,12 @@ It is a little guide that explains how I did to develop quickly on the Electron 
 3. Start the dev server from this repo using the provided script:
    * Script: `windows/scripts/run.bat` 
 
-4\) Launch the Electron app from the installed folder (or via the shortcut):
+4. Launch the Electron app from the installed folder (or via the shortcut):
 
 * `appLauncherElectron.bat` (it's better than the shortcut bcs it shows the electron output)
 
 ### Build a Windows installer
+{: .no_toc }
 
 First you have to copy your modified `electronStartup.js` (also preload.js if modified) back into the pithekos repo so they are versioned:
 

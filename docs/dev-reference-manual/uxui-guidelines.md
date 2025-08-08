@@ -14,17 +14,15 @@ parent: Dev Reference Manual
 {:toc}
 
 ## General page template
-Testing
 
 ## Data grid
-with
 
-## Mandatory fields
-some
+## Required fields
+When information is required to proceed:
+* The input should show an asterisk `*` **before** the label.
 
+![Example text field](assets\images\dev-reference-manual\required-fields-1.png)
 
 ## Modal
-content
 
 ## Tooltip
-inside
