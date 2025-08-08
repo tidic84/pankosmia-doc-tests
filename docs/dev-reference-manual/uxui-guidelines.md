@@ -1,20 +1,23 @@
 ---
 layout: default
-title: UX/UI Guidelines
+title: UX/UI guidelines
 permalink: /uxui-guidelines/
 parent: Dev Reference Manual
 ---
-# General page template
+# UX/UI guidelines
+
+## General page template
 {:toc}
 
-# Data grid
+## Data grid
 {:toc}
 
-# Mandatory fields
+## Mandatory fields
 {:toc}
 
-# Modal
+
+## Modal
 {:toc}
 
-# Tooltip
+## Tooltip
 {:toc}

@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Electron development tips (Windows)
-permalink: /windows-electron-dev-tips/
-parent: Dev Reference Manual
+title: Electron tips
+permalink: /electron-tips/
+parent: Electronite
 ---
-# Electron development tips (Windows)
+# Electron tips
+
+## Windows
+{:toc}
 
 ### Goal
 
