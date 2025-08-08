@@ -19,9 +19,12 @@ parent: Dev Reference Manual
 
 ## Required fields
 When information is required to proceed:
-* The input should show an asterisk `*` **before** the label.
+* Required field(s) should show an asterisk `*` **before** the label.
+![Example text field](../../assets/images/dev-reference-manual/required-fields-1.png)
 
-![Example text field](assets\images\dev-reference-manual\required-fields-1.png)
+* Above required field(s), explain what the asterisk does. Add the following text: `* Required fields.`
+This message is displayed once, after any title and before required field(s). Use the typography style `subtitle2`.
+![Example text field with guidance above](../../assets/images/dev-reference-manual/required-fields-2.png)
 
 ## Modal
 
