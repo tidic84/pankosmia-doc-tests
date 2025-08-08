@@ -8,16 +8,17 @@ parent: Dev Reference Manual
 
 ## General page template
 {:toc}
+Testing
 
 ## Data grid
-{:toc}
+with
 
 ## Mandatory fields
-{:toc}
+some
 
 
 ## Modal
-{:toc}
+content
 
 ## Tooltip
-{:toc}
+inside
