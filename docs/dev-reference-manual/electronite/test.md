@@ -5,5 +5,9 @@ permalink: /tests/
 parent: Electronite
 ---
 
-{{ site.data.mot1 }}
-{{ site.data.mot2 }}
+{{ site.data.lexique.mot1 }}
+{{ site.data.lexique.mot2 }}
+
+{% for entry in site.data.lexique %}
+    console.log('{{ entry }}');
+  {% endfor %}
