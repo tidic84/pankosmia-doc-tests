@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Electron tips
-permalink: /electron-tips/
+permalink: /tests/
 parent: Electronite
 ---
 
